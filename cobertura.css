@@ -4,16 +4,15 @@ cor redes sociais sem focalização - #0c6638  78px*/
 body {
 	background-color:#f1f7e3;
 	margin:0px;
-	}
+}
 
 p {
 	color:#00385c;
 	font-family:Century Gothic,Arial,Verdana,Calibre,Courier New,sans-serif;
 	font-size:15px;
 	text-align:justify;
-	}
-	
-	
+}
+
 h1 {
 	text-transform:uppercase;
 	color:#00385c;
@@ -22,7 +21,7 @@ h1 {
 	font-weight:bold;
 	text-align:center;
 	line-height:60px;
-	}
+}
 
 h2 {
 	text-transform:uppercase;
@@ -33,7 +32,7 @@ h2 {
 	text-align:left;
 	line-height:0px;
 	text-indent:15px;
-	}
+}
 
 h3 {
 	text-transform:capitalize;
@@ -44,20 +43,19 @@ h3 {
 	text-align:left;
 	line-height:10px;
 	text-indent:15px;
-	}
+}
 
 /* Seleção para Firefox */
 *::-moz-selection	{
-	background:#44c7ee; /* Cor que você quer para o fundo */
-    color:#00385c; /* Cor que você quer para o texto */
-	}
-	
+	background:#44c7ee;
+	color:#00385c;
+}
+
 /* Seleção para Internet Explorer e Google Chrome */
 *::selection	{
-	background:#44c7ee; /* Repita a cor que você escolheu para o fundo */
-    color:#00385c; /* Reíta a cor que você escolheu para o texto */
-	}
-
+	background:#44c7ee;
+	color:#00385c;
+}
 
 #area-geral {
 	background-color:#f1f7e3;
@@ -66,7 +64,7 @@ h3 {
 	position:absolute;
 	top:0px;
 	left:0px;
-	}
+}
 
 #espaco {
 	background-color: #6FC;
@@ -77,7 +75,7 @@ h3 {
 	margin-top:-295px;
 	left: 50%;
 	margin-left:-540px;
-	}
+}
 
 #cabecalho {
 	background-color:#0c6638;
@@ -87,7 +85,7 @@ h3 {
 	top: 0px;
 	left: 0px;
 	float:left;
-	}
+}
 
 #home {
 	width:330px;
@@ -96,7 +94,7 @@ h3 {
 	position:absolute;
 	top:0px;
 	left:0px;
-	}
+}
 
 #twitter {
 	width:300px;
@@ -105,8 +103,8 @@ h3 {
 	position:absolute;
 	top:0px;
 	left:180px;
-	}
-	
+}
+
 #facebook {
 	width:300px;
 	height:100px;
@@ -114,8 +112,8 @@ h3 {
 	position:absolute;
 	top:0px;
 	left:330px;
-	}
-	
+}
+
 #linkedin {
 	width:300px;
 	height:100px;
@@ -123,8 +121,8 @@ h3 {
 	position:absolute;
 	top:0px;
 	left:480px;
-	}
-	
+}
+
 #tumblr {
 	width:300px;
 	height:100px;
@@ -132,8 +130,8 @@ h3 {
 	position:absolute;
 	top:0px;
 	left:630px;
-	}
-	
+}
+
 #google-plus {
 	width:300px;
 	height:100px;
@@ -141,8 +139,8 @@ h3 {
 	position:absolute;
 	top:0px;
 	left:780px;
-	}
-	
+}
+
 #mapa {
 	width:150px;
 	height:100px;
@@ -150,7 +148,7 @@ h3 {
 	position:absolute;
 	top:1px;
 	left:931px;
-	}
+}
 
 #corpo {
 	background-color: #f1f7e3;
@@ -170,7 +168,7 @@ h3 {
 	top: 0px;
 	left: -180px;
 	float: left;
-	}
+}
 
 #quem-somos {
 	border:0px;
@@ -181,9 +179,7 @@ h3 {
 	top: 0px;
 	left: 0px;
 	float: left;
-	
-	}
-
+}
 
 #clientes {
 	background-color:transparent;
@@ -193,7 +189,7 @@ h3 {
 	top: 76px;
 	left: 0px;
 	float: left;
-	}
+}
 
 #solucoes {
 	background-color:transparent;
@@ -203,7 +199,7 @@ h3 {
 	top: 152px;
 	left: 0px;
 	float: left;
-	}
+}
 
 #equipe {
 	background-color:transparent;
@@ -213,7 +209,7 @@ h3 {
 	top: 228px;
 	left: 0px;
 	float: left;
-	}
+}
 
 #trabalhe-conosco {
 	background-color:transparent;
@@ -223,7 +219,7 @@ h3 {
 	top: 304px;
 	left: 0px;
 	float: left;
-	}
+}
 
 #painel {
 	background-color: #f1f7e3;
@@ -233,8 +229,8 @@ h3 {
 	top: 1px;
 	left: 182px;
 	float: left;
-	}
-	
+}
+
 #img-solucao1 {
 	border-style: solid;
 	border-width: 2px;
@@ -258,8 +254,8 @@ h3 {
 	left: 279px;
 	top: 7px;
 	text-indent: 20px;
-	}
-	
+}
+
 #parceiros {
 	border-style:solid;
 	border-width:2px;
@@ -271,7 +267,7 @@ h3 {
 	left: 201px;
 	top: 38px;
 	float: left;
-	}
+}
 
 #text-box {
 	text-indent:20px;
@@ -281,22 +277,22 @@ h3 {
 	z-index: 1;
 	left: 55px;
 	top: 16px;
-	}
+}
 
 #assinatura {
 	text-align:right;
-	}
+}
 
 #assinatura a{
 	color: #0a395d;
 	text-align:right;
-	}
-	
+}
+
 #assinatura a:hover {
 	color: #44c7ee;
 	text-align:right;
 	text-decoration:none;
-	}
+}
 
 #integrante1 {
 	background-color: transparent;
@@ -306,7 +302,7 @@ h3 {
 	top: 28px;
 	left: 50px;
 	float: left;
-	}
+}
 
 #integrante2 {
 	background-color: transparent;
@@ -316,7 +312,7 @@ h3 {
 	top: 106px;
 	left: 50px;
 	float: left;
-	}
+}
 
 #integrante3 {
 	background-color: transparent;
@@ -326,7 +322,7 @@ h3 {
 	top: 184px;
 	left: 50px;
 	float: left;
-	}
+}
 
 #integrante4 {
 	background-color: transparent;
@@ -336,7 +332,7 @@ h3 {
 	top: 263px;
 	left: 50px;
 	float: left;
-	}
+}
 
 .integrante-dados {
 	background-color: transparent;
@@ -346,14 +342,14 @@ h3 {
 	top: 8px;
 	left: 99px;
 	float: left;
-	}
+}
 
 .avatar {
 	border-style: solid;
 	border-width: 1px;
 	border-color: #0c6638;
-	}
-	
+}
+
 #rota {
 	border-style:solid;
 	border-width:2px;
@@ -387,7 +383,7 @@ h3 {
 	top: 12px;
 	left: 80px;
 	float: left;
-	}
+}
 
 #rodape {
 	background-image: url(imagens/rodape.png);
@@ -396,12 +392,12 @@ h3 {
 	position: absolute;
 	top: 380px;
 	left: -180px;
-	}
+}
 
 .rotulo {
 	color:#CCC;
 	font-weight:bold;
-	}
+}
 
 .final {
 	color:green;
@@ -414,7 +410,7 @@ h3 {
 	text-indent:10px;
 	color:#3395b2;
 	line-height:2px;
-	}
+}
 
 #rodape-localizacao {
 	background-color:transparent;
@@ -423,7 +419,7 @@ h3 {
 	position: absolute;
 	top: 100px;
 	left: 192px;
-	}
+}
 
 #rodape-contato {
 	background-color:transparent;
@@ -432,20 +428,20 @@ h3 {
 	position: absolute;
 	top: 100px;
 	left: 568px;
-	}
+}
 
 #rodape-contato a {
 	text-decoration:none;
 	color:#48c7ec;
 	font-weight:bold;
 	font-style:italic;
-	}
-	
+}
+
 #rodape-contato a:hover {
 	text-decoration:underline;
 	color:#48c7ec;
 	font-weight:bold;
-	}
+}
 
 #xpg {
 	width: 1080px;
@@ -455,7 +451,3 @@ h3 {
 	top: 635px;
 	left: 0px;
 	}
-	
-
-
-/* #fx1 {background-color:red;width:180px;height:440px;position:relative;top:100px;left:0px;float:left;} */
