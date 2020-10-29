@@ -256,7 +256,7 @@ h3 {
 	text-indent: 20px;
 }
 
-#parceiros {
+#grupo-parceiros {
 	border-style:solid;
 	border-width:2px;
 	border-color:#0c6638;
@@ -266,6 +266,12 @@ h3 {
 	position: absolute;
 	left: 201px;
 	top: 38px;
+	float: left;
+}
+
+.parceiro {
+	width: 100px;
+	height: 100px;
 	float: left;
 }
 
