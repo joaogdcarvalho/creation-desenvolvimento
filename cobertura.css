@@ -88,6 +88,7 @@ h3 {
 }
 
 #home {
+	border:0;
 	width:330px;
 	height:100px;
 	float:left;
@@ -97,6 +98,7 @@ h3 {
 }
 
 #twitter {
+	border:0;
 	width:300px;
 	height:100px;
 	float:left;
@@ -106,6 +108,7 @@ h3 {
 }
 
 #facebook {
+	border:0;
 	width:300px;
 	height:100px;
 	float:left;
@@ -115,6 +118,7 @@ h3 {
 }
 
 #linkedin {
+	border:0;
 	width:300px;
 	height:100px;
 	float:left;
@@ -124,6 +128,7 @@ h3 {
 }
 
 #tumblr {
+	border:0;
 	width:300px;
 	height:100px;
 	float:left;
@@ -133,6 +138,7 @@ h3 {
 }
 
 #google-plus {
+	border:0;
 	width:300px;
 	height:100px;
 	float:left;
@@ -142,6 +148,7 @@ h3 {
 }
 
 #mapa {
+	border:0;
 	width:150px;
 	height:100px;
 	float:left;
@@ -171,7 +178,7 @@ h3 {
 }
 
 #quem-somos {
-	border:0px;
+	border:0;
 	background-color:transparent;
 	width: 180px;
 	height: 76px;
@@ -182,6 +189,7 @@ h3 {
 }
 
 #clientes {
+	border: 0;
 	background-color:transparent;
 	width: 180px;
 	height: 76px;
@@ -192,6 +200,7 @@ h3 {
 }
 
 #solucoes {
+	border: 0;
 	background-color:transparent;
 	width: 180px;
 	height: 76px;
@@ -202,6 +211,7 @@ h3 {
 }
 
 #equipe {
+	border: 0;
 	background-color:transparent;
 	width: 180px;
 	height: 76px;
@@ -212,6 +222,7 @@ h3 {
 }
 
 #trabalhe-conosco {
+	border: 0;
 	background-color:transparent;
 	width: 180px;
 	height: 76px;
@@ -351,6 +362,7 @@ h3 {
 }
 
 .avatar {
+	border: 0;
 	border-style: solid;
 	border-width: 1px;
 	border-color: #0c6638;
