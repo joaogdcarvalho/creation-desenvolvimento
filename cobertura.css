@@ -243,6 +243,7 @@ h3 {
 }
 
 #img-solucao1 {
+	border: 0;
 	border-style: solid;
 	border-width: 2px;
 	border-color: #0c6638;
@@ -460,12 +461,3 @@ h3 {
 	color:#48c7ec;
 	font-weight:bold;
 }
-
-#xpg {
-	width: 1080px;
-	height: 150px;
-	background-color:#f1f7e3;
-	position: absolute;
-	top: 635px;
-	left: 0px;
-	}
