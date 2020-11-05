@@ -312,44 +312,29 @@ h3 {
 	text-decoration:none;
 }
 
-#integrante1 {
+.time {
 	background-color: transparent;
 	width: 630px;
 	height: 76px;
 	position: absolute;
-	top: 28px;
-	left: 50px;
 	float: left;
+	left: 50px;
+}
+
+#integrante1 {
+	top: 28px;
 }
 
 #integrante2 {
-	background-color: transparent;
-	width: 630px;
-	height: 76px;
-	position: absolute;
 	top: 106px;
-	left: 50px;
-	float: left;
 }
 
 #integrante3 {
-	background-color: transparent;
-	width: 630px;
-	height: 76px;
-	position: absolute;
 	top: 184px;
-	left: 50px;
-	float: left;
 }
 
 #integrante4 {
-	background-color: transparent;
-	width: 630px;
-	height: 76px;
-	position: absolute;
 	top: 263px;
-	left: 50px;
-	float: left;
 }
 
 .integrante-dados {
