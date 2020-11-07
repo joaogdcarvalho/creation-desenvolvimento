@@ -404,8 +404,6 @@ h3 {
 }
 
 .final {
-	color:green;
-	line-height:0xp;
 	font-size:11px;
 	font-family:verdana;
 	font-weight:bold;
@@ -416,31 +414,30 @@ h3 {
 	line-height:2px;
 }
 
-#rodape-localizacao {
+.rodape-dados {
 	background-color:transparent;
 	width: 350px;
 	height: 50px;
 	position: absolute;
 	top: 100px;
+	left: 0;
+}
+
+#localizacao {
 	left: 192px;
 }
 
-#rodape-contato {
-	background-color:transparent;
-	width: 350px;
-	height: 50px;
-	position: absolute;
-	top: 100px;
+#contato {
 	left: 568px;
 }
 
-#rodape-contato a {
+#contato a {
 	text-decoration:none;
 	color:#48c7ec;
 	font-weight:bold;
 	font-style:italic;
 }
 
-#rodape-contato a:hover {
+#contato a:hover {
 	text-decoration:underline;
 }
