@@ -87,72 +87,42 @@ h3 {
 	float:left;
 }
 
-#home {
-	border:0;
-	width:330px;
-	height:100px;
-	float:left;
-	position:absolute;
-	top:0px;
-	left:0px;
-}
-
-#twitter {
+.menu-superior {
 	border:0;
 	width:300px;
 	height:100px;
 	float:left;
 	position:absolute;
-	top:0px;
+	top:0;
+	left:0;
+}
+
+#home {
+	width:330px;
+}
+
+#twitter {
 	left:180px;
 }
 
 #facebook {
-	border:0;
-	width:300px;
-	height:100px;
-	float:left;
-	position:absolute;
-	top:0px;
 	left:330px;
 }
 
 #linkedin {
-	border:0;
-	width:300px;
-	height:100px;
-	float:left;
-	position:absolute;
-	top:0px;
 	left:480px;
 }
 
 #tumblr {
-	border:0;
-	width:300px;
-	height:100px;
-	float:left;
-	position:absolute;
-	top:0px;
 	left:630px;
 }
 
 #google-plus {
-	border:0;
-	width:300px;
-	height:100px;
-	float:left;
-	position:absolute;
-	top:0px;
 	left:780px;
 }
 
 #mapa {
-	border:0;
 	width:150px;
-	height:100px;
-	float:left;
-	position:absolute;
 	top:1px;
 	left:931px;
 }
