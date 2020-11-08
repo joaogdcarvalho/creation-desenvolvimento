@@ -67,7 +67,6 @@ h3 {
 }
 
 #espaco {
-	background-color: #6FC;
 	width: 1080px;
 	height: 630px;
 	position: absolute;
@@ -137,69 +136,39 @@ h3 {
 	float: left;
 	}
 
-#menu-lateral {
-	background-color: #f1f7e3;
+.menu-lateral {
+	border: 0;
 	width: 180px;
 	height: 380px;
 	position: absolute;
-	top: 0px;
+	top: 0;
 	left: -180px;
 	float: left;
 }
 
 #quem-somos {
-	border:0;
-	background-color:transparent;
-	width: 180px;
 	height: 76px;
-	position: absolute;
-	top: 0px;
-	left: 0px;
-	float: left;
+	left: 0;
 }
 
 #clientes {
-	border: 0;
-	background-color:transparent;
-	width: 180px;
 	height: 76px;
-	position: absolute;
-	top: 76px;
-	left: 0px;
-	float: left;
+	left: 0;
 }
 
 #solucoes {
-	border: 0;
-	background-color:transparent;
-	width: 180px;
 	height: 76px;
-	position: absolute;
-	top: 152px;
-	left: 0px;
-	float: left;
+	left: 0;
 }
 
 #equipe {
-	border: 0;
-	background-color:transparent;
-	width: 180px;
 	height: 76px;
-	position: absolute;
-	top: 228px;
-	left: 0px;
-	float: left;
+	left: 0;
 }
 
 #trabalhe-conosco {
-	border: 0;
-	background-color:transparent;
-	width: 180px;
 	height: 76px;
-	position: absolute;
-	top: 304px;
-	left: 0px;
-	float: left;
+	left: 0;
 }
 
 #painel {
