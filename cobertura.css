@@ -3,20 +3,19 @@ cor redes sociais sem focalização - #0c6638  78px*/
 
 body {
 	background-color:#f1f7e3;
-	margin:0px;
+	margin:0;
+	color:#00385c;
+	font-family:"Century Gothic","Arial","Verdana","Calibre","Courier New",sans-serif;
+	font-size:15px;
 }
 
 p {
-	color:#00385c;
-	font-family:Century Gothic,Arial,Verdana,Calibre,Courier New,sans-serif;
-	font-size:15px;
 	text-align:justify;
 }
 
 h1 {
 	text-transform:uppercase;
-	color:#00385c;
-	font-family:Arial Black, Arial,Verdana,Courier New, sans-serif;
+	font-family:"Arial Black";
 	font-size:25px;
 	font-weight:bold;
 	text-align:center;
@@ -25,19 +24,17 @@ h1 {
 
 h2 {
 	text-transform:uppercase;
-	color:#00385c;
-	font-family:Arial Black, Arial,Verdana,Courier New, sans-serif;
+	font-family:"Arial Black";
 	font-size:20px;
 	font-weight:bold;
 	text-align:left;
-	line-height:0px;
+	line-height:0;
 	text-indent:15px;
 }
 
 h3 {
 	text-transform:capitalize;
 	color:#3395b2;
-	font-family:Century Gothic,Verdana,Courier New, sans-serif;
 	font-size:13px;
 	font-style:italic;
 	text-align:left;
@@ -62,8 +59,8 @@ h3 {
 	height:100%;
 	width:100%;
 	position:absolute;
-	top:0px;
-	left:0px;
+	top:0;
+	left:0;
 }
 
 #espaco {
@@ -81,8 +78,8 @@ h3 {
 	width: 1080px;
 	height: 100px;
 	position: absolute;
-	top: 0px;
-	left: 0px;
+	top: 0;
+	left: 0;
 	float:left;
 }
 
