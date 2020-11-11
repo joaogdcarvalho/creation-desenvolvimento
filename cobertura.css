@@ -45,17 +45,14 @@ h3 {
 /* Seleção para Firefox */
 *::-moz-selection	{
 	background:#44c7ee;
-	color:#00385c;
 }
 
 /* Seleção para Internet Explorer e Google Chrome */
 *::selection	{
 	background:#44c7ee;
-	color:#00385c;
 }
 
 #area-geral {
-	background-color:#f1f7e3;
 	height:100%;
 	width:100%;
 	position:absolute;
@@ -124,7 +121,6 @@ h3 {
 }
 
 #corpo {
-	background-color: #f1f7e3;
 	width: 900px;
 	height: 380px;
 	position: absolute;
@@ -145,35 +141,28 @@ h3 {
 
 #quem-somos {
 	height: 76px;
-	left: 0;
 }
 
 #clientes {
 	height: 76px;
-	left: 0;
 }
 
 #solucoes {
 	height: 76px;
-	left: 0;
 }
 
 #equipe {
 	height: 76px;
-	left: 0;
 }
 
 #trabalhe-conosco {
 	height: 76px;
-	left: 0;
 }
 
 #painel {
-	background-color: #f1f7e3;
 	height: 380px;
 	position: absolute;
 	top: 1px;
-	left:0;
 	float: left;
 }
 
@@ -315,7 +304,6 @@ h3 {
 	border-style:solid;
 	border-width:2px;
 	border-color:#0c6638;
-	background-color: #f1f7e3;
 	width: 600px;
 	height: 350px;
 	position: absolute;
