@@ -9,6 +9,10 @@ body {
 	font-size:15px;
 }
 
+a {
+	color: #0a395d;
+}
+
 p {
 	text-align:justify;
 }
@@ -226,14 +230,8 @@ h3 {
 	text-align:right;
 }
 
-#assinatura a{
-	color: #0a395d;
-	text-align:right;
-}
-
 #assinatura a:hover {
 	color: #44c7ee;
-	text-align:right;
 	text-decoration:none;
 }
 
