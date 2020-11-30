@@ -56,6 +56,16 @@ h3 {
 	background:#44c7ee;
 }
 
+nav {
+	border: 0;
+	width: 180px;
+	height: 380px;
+	position: absolute;
+	top: 0;
+	left: -180px;
+	float: left;
+}
+
 #area-geral {
 	height:100%;
 	width:100%;
@@ -131,16 +141,6 @@ h3 {
 	position: absolute;
 	top: 100px;
 	left: 180px;
-	float: left;
-	}
-
-.menu-lateral {
-	border: 0;
-	width: 180px;
-	height: 380px;
-	position: absolute;
-	top: 0;
-	left: -180px;
 	float: left;
 }
 
