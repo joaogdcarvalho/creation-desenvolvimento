@@ -56,36 +56,7 @@ h3 {
 	background:#44c7ee;
 }
 
-nav {
-	border: 0;
-	width: 180px;
-	height: 380px;
-	position: absolute;
-	top: 0;
-	left: -180px;
-	float: left;
-}
-
-#area-geral {
-	height:100%;
-	width:100%;
-	position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-#espaco {
-	width: 1080px;
-	height: 630px;
-	position: absolute;
-	top: 50%;
-	margin-top:-295px;
-	left: 50%;
-	margin-left:-540px;
-}
-
-#cabecalho {
+header {
 	background-color:#0c6638;
 	width: 1080px;
 	height: 100px;
@@ -133,6 +104,35 @@ nav {
 	width:150px;
 	top:1px;
 	left:931px;
+}
+
+nav {
+	border: 0;
+	width: 180px;
+	height: 380px;
+	position: absolute;
+	top: 0;
+	left: -180px;
+	float: left;
+}
+
+#area-geral {
+	height:100%;
+	width:100%;
+	position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#espaco {
+	width: 1080px;
+	height: 630px;
+	position: absolute;
+	top: 50%;
+	margin-top:-295px;
+	left: 50%;
+	margin-left:-540px;
 }
 
 #corpo {
