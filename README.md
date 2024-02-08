@@ -1,77 +1,69 @@
-# Creation Desenvolvimento
-> Projeto complementar ao Trabalho de Conclusão do Curso Técnico de Informática realizado na ETEC Professor Basilides de Godoy.
+# Projeto de Desenvolvimento Web - Creation Desenvolvimento
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+Este repositório é um projeto de desenvolvimento web para empresa como trabalho de conclusão de curso técnico, com o objetivo de criar e manter um site institucional. O projeto engloba a estruturação do site, incluindo páginas de apresentação, equipe, serviços, clientes, e informações de contato.
 
-![](header.png)
+## Estrutura do Projeto
 
-## Installation
+O projeto está estruturado da seguinte forma:
 
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
+```
+projeto/
+|-- imagens/
+|   |-- equipe/
+|   |-- menus/
+|   |-- parceiros/
+|   |   |-- versao150px/
+|   |   |-- janela1.jpg
+|   |   |-- janela2.jpg
+|   |   |-- janela3.jpg
+|   |   |-- janela4.jpg
+|   |   |-- janela5.jpg
+|   |   |-- janela6.jpg
+|   |   |-- janela7.jpg
+|   |   |-- janela8.jpg
+|   |   |-- janela9.jpg
+|   |   |-- janela10.jpg
+|   |   |-- janela11.jpg
+|   |   |-- janela12.jpg
+|   |   |-- logo-disque pizza greco.jpg
+|   |-- redes_sociais/
+|   |   |-- area-facebook.png
+|   |   |-- area-googleplus.png
+|   |   |-- area-linkedin.png
+|   |   |-- area-mapa-ativo.png
+|   |   |-- area-mapa.png
+|   |   |-- area-tumblr.png
+|   |   |-- area-twitter.png
+|   |   |-- facebook.png
+|   |   |-- google.png
+|   |   |-- linkedin.png
+|   |   |-- livejournal.png
+|   |   |-- logotipo.png
+|   |   |-- tumblr.png
+|   |   |-- twitter.png
+|   |-- icone.png
+|   |-- rodape_sem-divisoria.png
+|   |-- rodape.png
+|-- .gitignore
+|-- clientes.html
+|-- cobertura.css
+|-- equipe.html
+|-- index.html
+|-- mapa.html
+|-- README.md
+|-- solucoes.html
+|-- trabalhe-conosco.html
 ```
 
-Windows:
+## Histórico de Commits
 
-```sh
-edit autoexec.bat
-```
+O histórico de commits apresenta o progresso do desenvolvimento do projeto, com mensagens descritivas destacando as principais alterações e implementações. Algumas realizações notáveis incluem:
 
-## Usage example
+- Estruturação inicial do projeto.
+- Atualizações na estrutura e formatação dos arquivos HTML.
+- Ajustes na estilização utilizando CSS.
+- Integração de imagens e recursos visuais.
+- Organização e refinamento das páginas e funcionalidades.
+- Atualização e refinamento do arquivo README.md.
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
-
-## Release History
-
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
-
-## Meta
-
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/joaogdcarvalho/creation-desenvolvimento](https://github.com/joaogdcarvalho)
-
-## Contributing
-
-1. Fork it (<https://github.com/joaogdcarvalho/creation-desenvolvimento/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/joaogdcarvalho/creation-desenvolvimento/wiki
-
+Para mais detalhes sobre as alterações específicas, consulte o histórico completo de commits do projeto.
