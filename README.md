@@ -1,4 +1,4 @@
-# Projeto de Desenvolvimento Web - Creation Desenvolvimento
+# Projeto Web - Creation Desenvolvimento
 
 Este repositório é um projeto de desenvolvimento web para empresa como trabalho de conclusão de curso técnico, com o objetivo de criar e manter um site institucional. O projeto engloba a estruturação do site, incluindo páginas de apresentação, equipe, serviços, clientes, e informações de contato.
 
